@@ -8,11 +8,10 @@
   </a>
 
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ksy809&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/ksy809"
-      width="700"
-      height="300"
-      style="margin-top: 16px;"
-    />
+   <img
+  src="https://render.gitanimals.org/farms/ksy809?v=2"
+  width="700"
+  height="300"
+/>
   </a>
 </div>

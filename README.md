@@ -9,7 +9,7 @@
 
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ksy809&utm_content=farm">
    <img
-  src="https://render.gitanimals.org/farms/ksy809?v=2"
+  src="https://render.gitanimals.org/farms/ksy809?v=3"
   width="700"
   height="300"
 />
